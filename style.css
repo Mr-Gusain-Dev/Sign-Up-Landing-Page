@@ -65,6 +65,7 @@
     font-weight: 700;
 }
 
+/* form-container button */
 .form-container button{
     padding: 15px;
     border: none;
@@ -90,12 +91,14 @@
     text-align: center;
 }
 
+/* left-container h3  */
 .form-left-container h3{
     padding: 10px 0px;
     font-weight: 600;
     font-size: 30px;
 }
 
+/* left-container p  */
 .form-left-container p{
     padding: 10px 0px;
     font-weight: 400;    
